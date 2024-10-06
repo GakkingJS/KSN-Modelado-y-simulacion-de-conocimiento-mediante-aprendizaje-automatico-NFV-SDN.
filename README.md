@@ -26,11 +26,11 @@ K-Fold Cross-Validation: Divide los datos en k subconjuntos (folds). El modelo s
 ## Codigo 
 Este código implementa un modelo de aprendizaje automático para clasificar tráfico de red en dos categorías basándose en el ancho de banda y la latencia. El proceso incluye:
 
-<p>Genera datos sintéticos de tráfico de red. </p>
-<p>Prepara y divide los datos en conjuntos de entrenamiento y prueba. </p>
-<p>Crea y entrena un clasificador K-Nearest Neighbors. </p>
-<p>Evalúa el modelo prediciendo sobre el conjunto de prueba.</p>
-<p>Visualiza los resultados en un gráfico de dispersión.</p>
+<p> - Genera datos sintéticos de tráfico de red. </p>
+<p> - Prepara y divide los datos en conjuntos de entrenamiento y prueba. </p>
+<p> - Crea y entrena un clasificador K-Nearest Neighbors. </p>
+<p> - Evalúa el modelo prediciendo sobre el conjunto de prueba.</p>
+<p> - Visualiza los resultados en un gráfico de dispersión.</p>
 
 El objetivo es demostrar cómo se puede usar el aprendizaje automático para clasificar y analizar patrones en el tráfico de red, lo cual puede ser útil para la gestión y optimización de redes.
 
